@@ -18,7 +18,7 @@ def clearscreen():
 text = "\033[1;36mMagicBot - Telegram akauntingiz uchun havfis Userbot\nMagicBot - faqatgina animatsialar uchun holos\nHarkuni yangilanish boradi\nMagicBot yangiliklari va Yangi modullarni telegram kanalimizda korishingiz mumkun\nhavfsizlik doirasi - bu bot Serverga ulanmagan.\nhttps://t.me/MagicBot_uz\n******************************************************\n"
 clearscreen()
 os.system("termux-open-url https://t.me/magicbot_uz")
-print(pyfiglet.figlet_format("magicbot"))
+print(pyfiglet.figlet_format("badriddin"))
 print(text)
 
 ip_id = input("\033[1;34mAPI_id kodini kiriting:")
